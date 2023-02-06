@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/emptyDTD.dtd to edit this template
+-->
+
+<!--
+    TODO define vocabulary identification data
+    PUBLIC ID  : -//vendor//vocabulary//EN
+    SYSTEM ID  : http://server/path/__NAME__
+-->
+
+<!-- TODO define your own vocabulary/syntax. Example follows:  -->
+
+<!ENTITY Address "Cairo,EG">
+
+<!ELEMENT library (info, Books)>
+
+<!ELEMENT info (location, description, librarian)>
+
+<!ELEMENT location (#PCDATA)>
+
+<!ELEMENT description (#PCDATA)>
+
+<!ELEMENT librarian (#PCDATA)>
+<!ATTLIST librarian name CDATA #REQUIRED>
+
+<!ELEMENT Books (book*)>
+
+<!ELEMENT book (title, author, preface, part*)>
+<!ATTLIST book ISBN ID #REQUIRED>
+
+<!ELEMENT title (#PCDATA)>
+
+<!ELEMENT author EMPTY>
+<!ATTLIST author name NMTOKEN "0">
+<!ATTLIST author gender (M|F) "M">
+
+<!ELEMENT preface (#PCDATA)>
+
+<!ELEMENT part (chapter*)>
+<!ATTLIST part PartTitle ID #REQUIRED>
+
+<!ELEMENT chapter (#PCDATA|summary|Sections)*>
+<!ATTLIST chapter ChapterTitle CDATA #REQUIRED>
+
+<!ELEMENT summary (#PCDATA)>
+
+<!ELEMENT Sections (p*)>
+
+<!ELEMENT p (#PCDATA)>
