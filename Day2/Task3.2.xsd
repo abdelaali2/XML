@@ -1,0 +1,45 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="BookStore">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Book">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element type="xs:string" name="Title" />
+                            <xs:element type="xs:string" name="Author" />
+                        </xs:sequence>
+                        <xs:attribute name="Category" type="CategoryType" default="fiction" />
+                        <xs:attribute name="InStock" type="InStockType" default="false" />
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <!--Define Type Category -->  
+
+    <xs:simpleType name = "CategoryType">  
+
+        <xs:restriction base = "xs:string">  
+
+            <xs:enumeration value = "science"/>  
+
+            <xs:enumeration value = "fiction"/>  
+
+        </xs:restriction>  
+
+    </xs:simpleType> 
+
+    <!--Define Type InStock -->  
+
+    <xs:simpleType name = "InStockType">  
+
+        <xs:restriction base = "xs:string">  
+
+            <xs:enumeration value = "true"/>  
+
+            <xs:enumeration value = "false"/>  
+
+        </xs:restriction> 
+
+    </xs:simpleType> 
+</xs:schema>
