@@ -1,0 +1,499 @@
+{
+  "info": {
+    "location": "Cairo,EG",
+    "description": "The greatest library of all time.",
+    "librarian": {
+      "@name": "Ahmed Ali"
+    }
+  },
+  "Books": [
+    {
+      "@ISBN": "EG_101",
+      "title": "&& means logical \"AND\" Operation",
+      "author": {
+        "@name": "AUTHOR",
+        "@gender": "M"
+      },
+      "preface": "preface",
+      "part": [
+        {
+          "@PartTitle": "i_1st_B1",
+          "chapter": [
+            {
+              "@ChapterTitle": "1",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ]
+            },
+            {
+              "@ChapterTitle": "2",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ],
+              "#text": ">"
+            },
+            {
+              "@ChapterTitle": "3",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ],
+              "#text": ">"
+            }
+          ]
+        },
+        {
+          "@PartTitle": "ii_2nd_B1",
+          "chapter": [
+            {
+              "@ChapterTitle": "4",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ]
+            },
+            {
+              "@ChapterTitle": "5",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ],
+              "#text": ">"
+            },
+            {
+              "@ChapterTitle": "6",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ],
+              "#text": ">"
+            }
+          ]
+        },
+        {
+          "@PartTitle": "iii_3rd_B1",
+          "chapter": [
+            {
+              "@ChapterTitle": "7",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ]
+            },
+            {
+              "@ChapterTitle": "8",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ],
+              "#text": ">"
+            },
+            {
+              "@ChapterTitle": "9",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ],
+              "#text": ">"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@ISBN": "EG_102",
+      "title": "This \"\" means double qutotation",
+      "author": {
+        "@name": "AUTHOR",
+        "@gender": "F"
+      },
+      "preface": "preface",
+      "part": [
+        {
+          "@PartTitle": "i_1st_B2",
+          "chapter": [
+            {
+              "@ChapterTitle": "1",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ]
+            },
+            {
+              "@ChapterTitle": "2",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ],
+              "#text": ">"
+            },
+            {
+              "@ChapterTitle": "3",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ],
+              "#text": ">"
+            }
+          ]
+        },
+        {
+          "@PartTitle": "ii_2nd_B2",
+          "chapter": [
+            {
+              "@ChapterTitle": "4",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ]
+            },
+            {
+              "@ChapterTitle": "5",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ],
+              "#text": ">"
+            },
+            {
+              "@ChapterTitle": "6",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ],
+              "#text": ">"
+            }
+          ]
+        },
+        {
+          "@PartTitle": "iii_3rd_B2",
+          "chapter": [
+            {
+              "@ChapterTitle": "7",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ]
+            },
+            {
+              "@ChapterTitle": "8",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ],
+              "#text": ">"
+            },
+            {
+              "@ChapterTitle": "9",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ],
+              "#text": ">"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@ISBN": "EG_103",
+      "title": "This '' means single qutotation",
+      "author": {
+        "@name": "AUTHOR",
+        "@gender": "F"
+      },
+      "preface": "preface",
+      "part": [
+        {
+          "@PartTitle": "i_1st_B3",
+          "chapter": [
+            {
+              "@ChapterTitle": "1",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ]
+            },
+            {
+              "@ChapterTitle": "2",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ],
+              "#text": ">"
+            },
+            {
+              "@ChapterTitle": "3",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ],
+              "#text": ">"
+            }
+          ]
+        },
+        {
+          "@PartTitle": "ii_2nd_B3",
+          "chapter": [
+            {
+              "@ChapterTitle": "4",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ]
+            },
+            {
+              "@ChapterTitle": "5",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ],
+              "#text": ">"
+            },
+            {
+              "@ChapterTitle": "6",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ],
+              "#text": ">"
+            }
+          ]
+        },
+        {
+          "@PartTitle": "iii_3rd_B3",
+          "chapter": [
+            {
+              "@ChapterTitle": "7",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ]
+            },
+            {
+              "@ChapterTitle": "8",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ],
+              "#text": ">"
+            },
+            {
+              "@ChapterTitle": "9",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ],
+              "#text": ">"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@ISBN": "EG_104",
+      "title": "This & means ampersand character",
+      "author": {
+        "@name": "AUTHOR",
+        "@gender": "M"
+      },
+      "preface": "preface",
+      "part": [
+        {
+          "@PartTitle": "i_1st_B4",
+          "chapter": [
+            {
+              "@ChapterTitle": "1",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ]
+            },
+            {
+              "@ChapterTitle": "2",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ],
+              "#text": ">"
+            },
+            {
+              "@ChapterTitle": "3",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ],
+              "#text": ">"
+            }
+          ]
+        },
+        {
+          "@PartTitle": "ii_2nd_B4",
+          "chapter": [
+            {
+              "@ChapterTitle": "4",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ]
+            },
+            {
+              "@ChapterTitle": "5",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ],
+              "#text": ">"
+            },
+            {
+              "@ChapterTitle": "6",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ],
+              "#text": ">"
+            }
+          ]
+        },
+        {
+          "@PartTitle": "iii_3rd_B4",
+          "chapter": [
+            {
+              "@ChapterTitle": "7",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ]
+            },
+            {
+              "@ChapterTitle": "8",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ],
+              "#text": ">"
+            },
+            {
+              "@ChapterTitle": "9",
+              "summary": [],
+              "Sections": [
+                "content",
+                "content",
+                "content",
+                "content"
+              ],
+              "#text": ">"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
