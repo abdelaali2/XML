@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="task1.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<WeekDay>1</WeekDay>
+<!-- <WeekDay>2</WeekDay> -->
+<!-- <WeekDay>3</WeekDay> -->
+<!-- <WeekDay>4</WeekDay> -->
+<!-- <WeekDay>5</WeekDay> -->
+<!-- <WeekDay>6</WeekDay> -->
+<!-- <WeekDay>7</WeekDay> -->
+<!-- <WeekDay>Sunday</WeekDay> -->
+<!-- <WeekDay>Monday</WeekDay> -->
+<!-- <WeekDay>Tuesday</WeekDay> -->
+<!-- <WeekDay>Wedensday</WeekDay> -->
+<!-- <WeekDay>Thursday</WeekDay> -->
+<!-- <WeekDay>Friday</WeekDay> -->
+<!-- <WeekDay>Saturday</WeekDay> -->
